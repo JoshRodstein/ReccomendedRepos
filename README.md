@@ -1,4 +1,4 @@
-# Recomended Repositories
+# Recommended Repositories
 
 ### Current
   - [devops](https://github.com/JoshRodstein/devops) - **Ruby**
